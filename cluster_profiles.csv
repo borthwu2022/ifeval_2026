@@ -1,0 +1,4 @@
+"cluster","n_llms","overall","change_case","combination","detectable_content","detectable_format","keywords","language","length_constraints","punctuation","startend"
+1,32,0.232,0.101,0.085,0.329,0.248,0.23,0.185,0.176,0.116,0.108
+2,58,0.72,0.257,0.747,0.771,0.812,0.704,0.455,0.656,0.727,0.849
+3,32,0.823,0.738,0.793,0.866,0.848,0.793,0.907,0.74,0.827,0.811
